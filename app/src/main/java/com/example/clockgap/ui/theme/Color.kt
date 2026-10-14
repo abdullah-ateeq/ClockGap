@@ -1,0 +1,53 @@
+package com.example.clockgap.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light Theme Palette
+val LightPrimary = Color(0xFF006686)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFBFE9FF)
+val LightOnPrimaryContainer = Color(0xFF001F2A)
+val LightSecondary = Color(0xFF4C616C)
+val LightOnSecondary = Color(0xFFFFFFFF)
+val LightSecondaryContainer = Color(0xFFCFE6F2)
+val LightOnSecondaryContainer = Color(0xFF081E27)
+val LightTertiary = Color(0xFF5D5B7D)
+val LightOnTertiary = Color(0xFFFFFFFF)
+val LightTertiaryContainer = Color(0xFFE3DFFF)
+val LightOnTertiaryContainer = Color(0xFF191836)
+val LightBackground = Color(0xFFFBFBFC)
+val LightOnBackground = Color(0xFF191C1E)
+val LightSurface = Color(0xFFFFFFFF)
+val LightOnSurface = Color(0xFF191C1E)
+val LightSurfaceVariant = Color(0xFFEDEFF2)
+val LightOnSurfaceVariant = Color(0xFF40484C)
+val LightOutline = Color(0xFF70787D)
+
+// Dark Theme Palette
+val DarkPrimary = Color(0xFF81D0F7)
+val DarkOnPrimary = Color(0xFF003447)
+val DarkPrimaryContainer = Color(0xFF004D66)
+val DarkOnPrimaryContainer = Color(0xFFBFE9FF)
+val DarkSecondary = Color(0xFFB3CAD6)
+val DarkOnSecondary = Color(0xFF1E333D)
+val DarkSecondaryContainer = Color(0xFF354A54)
+val DarkOnSecondaryContainer = Color(0xFFCFE6F2)
+val DarkTertiary = Color(0xFFC6C2EA)
+val DarkOnTertiary = Color(0xFF2E2D4D)
+val DarkTertiaryContainer = Color(0xFF454364)
+val DarkOnTertiaryContainer = Color(0xFFE3DFFF)
+val DarkBackground = Color(0xFF101214)
+val DarkOnBackground = Color(0xFFE2E2E6)
+val DarkSurface = Color(0xFF171A1D)
+val DarkOnSurface = Color(0xFFE2E2E6)
+val DarkSurfaceVariant = Color(0xFF22262B)
+val DarkOnSurfaceVariant = Color(0xFFC0C8CD)
+val DarkOutline = Color(0xFF8A9297)
+
+// Custom visualizer colors
+val GapIndicatorColor = Color(0xFF0091B8)
+val GapIndicatorColorDark = Color(0xFF50C5F8)
+val CrossMidnightBadgeBg = Color(0xFFFFECEB)
+val CrossMidnightBadgeText = Color(0xFFBA1A1A)
+val CrossMidnightBadgeBgDark = Color(0xFF410002)
+val CrossMidnightBadgeTextDark = Color(0xFFFFB4AB)
